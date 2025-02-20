@@ -9,3 +9,4 @@ wheels/
 # Virtual environments
 .venv
 customer_data.csv
+logs/project.log
